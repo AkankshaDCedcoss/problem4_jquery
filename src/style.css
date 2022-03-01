@@ -1,0 +1,47 @@
+.main {
+  margin-left: 20%;
+  margin-top: 20px;
+  background: black;
+  margin-right: 10%;
+  padding-bottom: 100px;
+}
+body {
+  background-color: blanchedalmond;
+}
+.main input[type="text"] {
+  border: 1px solid yellow;
+  width: 350px;
+  height: 50px;
+  margin-left: 30%;
+  font-size: 30px;
+  margin-top: 100px;
+  background-color: wheat;
+  margin-right: 30%;
+}
+.main input[type="radio"] {
+  color: wheat;
+  font-size: 30px;
+  margin-top: 80px;
+  margin-left: 30%;
+}
+button {
+  width: 300px;
+  height: 60px;
+
+  margin-top: 100px;
+  background-color: rgb(10, 66, 10);
+  font-size: 35px;
+  color: wheat;
+  margin-left: 35%;
+}
+label {
+  color: wheat;
+  font-size: 30px;
+  margin-left: 60px;
+}
+#output {
+  font-size: 30px;
+  color: wheat;
+  margin-left: 30%;
+  margin-top: 80px;
+}
